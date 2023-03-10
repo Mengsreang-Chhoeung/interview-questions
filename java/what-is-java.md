@@ -2,7 +2,7 @@
 
 មុននឹងឈានដល់ការយល់ដឹងអំពីភាសា Java ថាជាអ្វី យើងអាចទៅមើលពីប្រវត្តិខ្លះៗរបស់ភាសា Java ដែលវាគឺជាភាសាមួយដែលត្រូវបានបង្កើតឡើងដោយលោក James Gosling។ គាត់ជាបុគ្គលិកធ្វើការនៅក្រុមហ៊ុន Sun Microsystems នៅក្នុងគម្រោងស្រាវជ្រាវមួយឈ្មោះថា Green Project នៅឆ្នាំ ១៩៩១។ គម្រោងនេះបានប្រើភាសាមួយដែលមូលដ្ឋានឈរលើភាសា C និង C++។ ដំបូងឡើយភាសានេះឈ្មោះថា Oak បន្ទាប់ពីលោកបានឃើញដើម Oak តាមរយៈបង្អួចការិយាល័យរបស់គាត់ក្នុងក្រុមហ៊ុន Sun។ តែឈ្មោះនេះត្រូវបានប្តូរតាមសំណើររបស់មិត្តរួមការងាររបស់គាត់ទៅជា Java បន្ទាប់ពីគាត់ចេញពីហាងកាហ្វេ ហើយក៏មានឈ្មោះថា Java រហូតមកដល់សព្វថ្ងៃនេះ។ ការងាររបស់ Green Project មានការលំបាកខ្លាំងជាហេតុធ្វើឲ្យកិច្ចព្រមព្រៀងសំខាន់មួយរបស់ក្រុមហ៊ុន Sun ត្រូវបានប្រគល់ឲ្យក្រុមហ៊ុនដទៃ។ ការងាររបស់ Green Project ស្ទើរតែដួលរលំទៅហើយ តែសំណាងល្អនៅឆ្នាំ ១៩៩៣ World Wide Web បានលេចធ្លោឡើងបានធ្វើឲ្យអ្នកធ្វើការនៅក្រុមហ៊ុន ​Sun មើលឃើញយ៉ាងច្បាស់ពីអនុភាពនៃកាប្រើ Java ដើម្បីបង្កើត Web Page វាបានធ្វើឲ្យគម្រោងនេះដើរសារជាថ្មីវិញ។
 
-គេថា Java មានលក្ខណៈ Simple, Object Oriented, Statically Typed, Compiled and Interpreted, Architecture Neutral and Portable, Multithreaded, Garbage Collected, Robust, Secure, Built-in Networking និង Extensible។
+គេថា Java មានលក្ខណៈ Simple, Object Oriented, Statically Typed, Compiled and Interpreted, Architecture Neutral and Portable, Multithreaded, Garbage Collected, Robust, Secure, Built-in Networking និង Extensible៖
 
 - Simple : អ្នកបង្កើត Java បានលុបបំបាត់ចោលនូវលក្ខណៈមិនចាំបាច់មួយចំនួនរបស់ភាសាសំណេរកម្មវិធី ដូចជា Java មិនប្រើ Pointers, Structures, Unions, Template, Header file ឬ Multiple Inheritance ជាដើម។
 
