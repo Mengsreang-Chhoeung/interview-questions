@@ -7,4 +7,4 @@
 - **Data Access:** នៅក្រុមមួយនេះគឺមានរួមបញ្ចូលជាមួយលក្ខណៈពិសេសជាច្រើនដែលទាក់ទងនឹងការធ្វើការជាមួយនឹង _Database_ ដែលមានដូចជា _Transactions, DAO support, JDBC, ORM, Marshalling XML_។
 - **Spring MVC និង Spring WebFlux**: នៅក្រុមមួយនេះគឺមានរួមបញ្ចូលជាមួយលក្ខណៈពិសេសដែលទាក់ទងនឹង _Web Frameworks_។
 - **Integration:** នៅក្រុមមួយនេះគឺមានរួមបញ្ចូលជាមួយលក្ខណៈពិសេសជាច្រើនដែលទាក់ទងនឹងការ _integration_ នូវមុខងារបន្ថែមមួយចំនួនដែលមានដូចជា _Remoting, JMS, JCA, JMX, Email, Tasks, Scheduling, Cache_។
-- **Languges:** នៅក្រុមមួយនេះគឺមានរួមបញ្ចូលជាមួយលក្ខណៈពិសេសជាច្រើនដែលទាក់ទងនឹងភាសាកម្មវិធីសម្រាប់សរសេរដែលមានដូចជា _Kotlin, Groovy, Dynamic languages_។
+- **Languages:** នៅក្រុមមួយនេះគឺមានរួមបញ្ចូលជាមួយលក្ខណៈពិសេសជាច្រើនដែលទាក់ទងនឹងភាសាកម្មវិធីសម្រាប់សរសេរដែលមានដូចជា _Kotlin, Groovy, Dynamic languages_។
