@@ -2,7 +2,7 @@
 
 [ENGLISH BELOW]
 
-នៅក្នុង **Spring Framework** ដើម្បីអាចប្រើប្រាស់នូវមុខងារ **Denpendency Injection** បានគឺយើងអាចប្រើ _Constructor Injection_, _Setter Injection_ និង _Field Injection_ បាន តែសម្រាប់ _Constructor Injection_ និង _Setter Injection_ ហាក់បីដូចជាមានប្រជាប្រិយភាពជាង _Field Injection_ ដូច្នេះយើងនឹងទៅស្វែងយល់ពីភាពខុសគ្នារវាង _Constructor Injection_ និង _Setter Injection_ ដែលមានដូចខាងក្រោម៖
+នៅក្នុង **Spring Framework** ដើម្បីអាចប្រើប្រាស់នូវមុខងារ **Dependency Injection** បានគឺយើងអាចប្រើ _Constructor Injection_, _Setter Injection_ និង _Field Injection_ បាន តែសម្រាប់ _Constructor Injection_ និង _Setter Injection_ ហាក់បីដូចជាមានប្រជាប្រិយភាពជាង _Field Injection_ ដូច្នេះយើងនឹងទៅស្វែងយល់ពីភាពខុសគ្នារវាង _Constructor Injection_ និង _Setter Injection_ ដែលមានដូចខាងក្រោម៖
 
 - Partial dependency - សម្រាប់ _Setter Injection_ គឺយើងអាចកំណត់បានថា _dependencies_ ណាជាប្រភេទដែលសំខាន់គឺអត់មិនបាន ហើយក៏អាចកំណត់បានថា _dependencies_ ណាជាប្រភេទធម្មតាគឺអត់មានក៏បាន តែសម្រាប់ _Constructor Injection_ វិញគឺមិនអាចធ្វើចឹងបានទេ។
 - Overriding - បើសិនជាយើងប្រកាសទាំង​ _Constructor Injection_ និង Setter Injection សម្រាប់ _dependencies_ ដូចគ្នា នោះ Setter Injection នឹងធ្វើការ​រំលង _Constructor Injection_ ហើយទៅប្រតិបត្តិ _Setter Injection_ ជំនួសវិញ។
@@ -11,7 +11,7 @@
 
 ---
 
-In the **Spring Framework** to be able to use the **Denpendency Injection** function, we can only use _Constructor Injection_, _Setter Injection_ and _Field Injection_, but for _Constructor Injection_ and _Setter Injection_ seems to be more popular than _Field Injection_, so we will explore the differences between _Constructor Injection_ and _Setter Injection_ are as follows:
+In the **Spring Framework** to be able to use the **Dependency Injection** function, we can only use _Constructor Injection_, _Setter Injection_ and _Field Injection_, but for _Constructor Injection_ and _Setter Injection_ seems to be more popular than _Field Injection_, so we will explore the differences between _Constructor Injection_ and _Setter Injection_ are as follows:
 
 - Partial dependency - For Setter Injection, we can determine which type of dependency is important (required) and can determine which type of dependency is normal (optional), but for Constructor Injection is not possible.
 - Overriding - If we declare both Constructor Injection and Setter Injection for the same dependencies, Setter Injection will bypass Constructor Injection and execute Setter Injection instead.
