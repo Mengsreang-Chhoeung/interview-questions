@@ -6,4 +6,4 @@
 
 ---
 
-**Bean Scope** is the scope that the **Bean** can do, and it has many scopes, but the default value is _singleton_.
+**Bean Scope** is the scope that the **Bean** can do, and it has many scopes, but the default value is a _singleton_.
